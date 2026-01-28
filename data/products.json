@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "name": "Atomic Habits",
+        "price": 850.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?q=80&w=1000&auto=format&fit=crop",
+        "category": "Books",
+        "tags": [
+            "self help",
+            "non-fiction",
+            "books",
+            "bestseller"
+        ],
+        "status": "available",
+        "description": "Hardcover copy of Atomic Habits by James Clear. Like new condition."
+    },
+    {
+        "id": 2,
+        "name": "Sony WH-1000XM4 Headphones",
+        "price": 12000.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?q=80&w=1000&auto=format&fit=crop",
+        "category": "Electronics",
+        "tags": [
+            "audio",
+            "headphones",
+            "sony",
+            "electronics"
+        ],
+        "status": "available",
+        "description": "Noise cancelling headphones, barely used. Comes with original case."
+    },
+    {
+        "id": 3,
+        "name": "Vintage Desk Lamp",
+        "price": 2000.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1513506003013-1b6fb54581a9?q=80&w=1000&auto=format&fit=crop",
+        "category": "Office",
+        "tags": [
+            "lamp",
+            "light",
+            "vintage",
+            "office",
+            "decor"
+        ],
+        "status": "available",
+        "description": "Brass finish vintage desk lamp. Works perfectly."
+    },
+    {
+        "id": 4,
+        "name": "Sapiens: A Brief History of Humankind",
+        "price": 900.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=1000&auto=format&fit=crop",
+        "category": "Books",
+        "tags": [
+            "history",
+            "non-fiction",
+            "books",
+            "anthropology"
+        ],
+        "status": "sold",
+        "description": "Paperback. Good condition with some highlighting."
+    },
+    {
+        "id": 5,
+        "name": "Plush Teddy Bear",
+        "price": 400.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1559454403-b8fb87521bc7?q=80&w=1000&auto=format&fit=crop",
+        "category": "Toys",
+        "tags": [
+            "soft toys",
+            "kids",
+            "toys",
+            "plush"
+        ],
+        "status": "available",
+        "description": "Very soft brown teddy bear. 12 inches tall."
+    },
+    {
+        "id": 6,
+        "name": "Kindle Paperwhite",
+        "price": 5000.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?q=80&w=1000&auto=format&fit=crop",
+        "category": "Electronics",
+        "tags": [
+            "kindle",
+            "ereader",
+            "electronics",
+            "amazon"
+        ],
+        "status": "available",
+        "description": "10th Generation. Waterproof. 8GB storage."
+    },
+    {
+        "id": 7,
+        "name": "Zero to One",
+        "price": 850.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=1000&auto=format&fit=crop",
+        "category": "Books",
+        "tags": [
+            "business",
+            "startup",
+            "books",
+            "non-fiction"
+        ],
+        "status": "available",
+        "description": "Notes on Startups, or How to Build the Future. Peter Thiel."
+    }
+]
