@@ -111,5 +111,325 @@
         ],
         "status": "available",
         "description": "Notes on Startups, or How to Build the Future. Peter Thiel."
+    },
+    {
+        "id": 8,
+        "name": "Ceramic Planter Set",
+        "price": 650.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=1000&auto=format&fit=crop",
+        "category": "Home",
+        "tags": [
+            "planter",
+            "ceramic",
+            "home",
+            "decor"
+        ],
+        "status": "available",
+        "description": "Set of 3 ceramic planters with drainage holes. Great condition."
+    },
+    {
+        "id": 9,
+        "name": "Acoustic Guitar",
+        "price": 6200.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1000&auto=format&fit=crop",
+        "category": "Music",
+        "tags": [
+            "guitar",
+            "instrument",
+            "music",
+            "acoustic"
+        ],
+        "status": "available",
+        "description": "Full-size acoustic guitar with soft case. Recently restrung."
+    },
+    {
+        "id": 10,
+        "name": "Cast Iron Skillet",
+        "price": 900.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1488900128323-21503983a07e?q=80&w=1000&auto=format&fit=crop",
+        "category": "Kitchen",
+        "tags": [
+            "cookware",
+            "kitchen",
+            "cast iron",
+            "pan"
+        ],
+        "status": "available",
+        "description": "10-inch seasoned cast iron skillet. Ready to use."
+    },
+    {
+        "id": 11,
+        "name": "Yoga Mat",
+        "price": 700.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?q=80&w=1000&auto=format&fit=crop",
+        "category": "Fitness",
+        "tags": [
+            "yoga",
+            "fitness",
+            "mat",
+            "workout"
+        ],
+        "status": "available",
+        "description": "Non-slip yoga mat, 6mm thickness. Cleaned and sanitized."
+    },
+    {
+        "id": 12,
+        "name": "Mechanical Keyboard",
+        "price": 4500.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1000&auto=format&fit=crop",
+        "category": "Electronics",
+        "tags": [
+            "keyboard",
+            "mechanical",
+            "electronics",
+            "tech"
+        ],
+        "status": "available",
+        "description": "Compact mechanical keyboard with brown switches and RGB."
+    },
+    {
+        "id": 13,
+        "name": "Mid-Century Side Table",
+        "price": 2800.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000&auto=format&fit=crop",
+        "category": "Furniture",
+        "tags": [
+            "table",
+            "furniture",
+            "wood",
+            "mid-century"
+        ],
+        "status": "available",
+        "description": "Walnut side table with tapered legs. Minor wear."
+    },
+    {
+        "id": 14,
+        "name": "Denim Jacket",
+        "price": 1200.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1000&auto=format&fit=crop",
+        "category": "Clothing",
+        "tags": [
+            "denim",
+            "jacket",
+            "clothing",
+            "casual"
+        ],
+        "status": "available",
+        "description": "Classic blue denim jacket, size M. Lightly worn."
+    },
+    {
+        "id": 15,
+        "name": "Polaroid Instant Camera",
+        "price": 3600.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1519183071298-a2962be96c37?q=80&w=1000&auto=format&fit=crop",
+        "category": "Photography",
+        "tags": [
+            "camera",
+            "instant",
+            "photography",
+            "polaroid"
+        ],
+        "status": "available",
+        "description": "Instant camera in good working condition. No film included."
+    },
+    {
+        "id": 16,
+        "name": "Board Game: Codenames",
+        "price": 700.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1000&auto=format&fit=crop",
+        "category": "Games",
+        "tags": [
+            "board game",
+            "party",
+            "games",
+            "family"
+        ],
+        "status": "available",
+        "description": "Complete set. Great party game for 4-8 players."
+    },
+    {
+        "id": 17,
+        "name": "Travel Backpack 35L",
+        "price": 2500.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1000&auto=format&fit=crop",
+        "category": "Travel",
+        "tags": [
+            "backpack",
+            "travel",
+            "bag",
+            "outdoor"
+        ],
+        "status": "available",
+        "description": "Water-resistant backpack with laptop sleeve. Barely used."
+    },
+    {
+        "id": 18,
+        "name": "Stainless Steel Water Bottle",
+        "price": 500.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?q=80&w=1000&auto=format&fit=crop",
+        "category": "Accessories",
+        "tags": [
+            "bottle",
+            "stainless steel",
+            "accessories",
+            "eco"
+        ],
+        "status": "available",
+        "description": "1L insulated bottle. Keeps drinks cold for hours."
+    },
+    {
+        "id": 19,
+        "name": "Bluetooth Speaker",
+        "price": 1800.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1518672019048-805c876b67e2?q=80&w=1000&auto=format&fit=crop",
+        "category": "Electronics",
+        "tags": [
+            "speaker",
+            "bluetooth",
+            "audio",
+            "electronics"
+        ],
+        "status": "available",
+        "description": "Portable Bluetooth speaker with 10-hour battery life."
+    },
+    {
+        "id": 20,
+        "name": "Framed Art Print",
+        "price": 1500.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=1000&auto=format&fit=crop",
+        "category": "Home",
+        "tags": [
+            "art",
+            "frame",
+            "decor",
+            "home"
+        ],
+        "status": "available",
+        "description": "Minimalist art print in a black 18x24 frame."
+    },
+    {
+        "id": 21,
+        "name": "Classic Wristwatch",
+        "price": 3200.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?q=80&w=1000&auto=format&fit=crop",
+        "category": "Accessories",
+        "tags": [
+            "watch",
+            "accessories",
+            "classic",
+            "leather"
+        ],
+        "status": "available",
+        "description": "Analog wristwatch with leather strap. New battery installed."
+    },
+    {
+        "id": 22,
+        "name": "Kitchen Knife Set",
+        "price": 2200.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1543353071-087092ec3930?q=80&w=1000&auto=format&fit=crop",
+        "category": "Kitchen",
+        "tags": [
+            "knives",
+            "kitchen",
+            "cooking",
+            "steel"
+        ],
+        "status": "available",
+        "description": "5-piece stainless steel knife set with wooden block."
+    },
+    {
+        "id": 23,
+        "name": "Running Shoes",
+        "price": 2400.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop",
+        "category": "Fitness",
+        "tags": [
+            "shoes",
+            "running",
+            "fitness",
+            "sports"
+        ],
+        "status": "available",
+        "description": "Size 9 running shoes. Lightly used, great cushioning."
+    },
+    {
+        "id": 24,
+        "name": "Wireless Mouse",
+        "price": 900.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?q=80&w=1000&auto=format&fit=crop",
+        "category": "Electronics",
+        "tags": [
+            "mouse",
+            "wireless",
+            "electronics",
+            "tech"
+        ],
+        "status": "available",
+        "description": "Ergonomic wireless mouse with USB receiver."
+    },
+    {
+        "id": 25,
+        "name": "Wool Throw Blanket",
+        "price": 1400.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1000&auto=format&fit=crop",
+        "category": "Home",
+        "tags": [
+            "blanket",
+            "wool",
+            "home",
+            "cozy"
+        ],
+        "status": "available",
+        "description": "Soft wool throw blanket in charcoal grey."
+    },
+    {
+        "id": 26,
+        "name": "Succulent Collection",
+        "price": 550.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?q=80&w=1000&auto=format&fit=crop",
+        "category": "Home",
+        "tags": [
+            "succulent",
+            "plants",
+            "home",
+            "green"
+        ],
+        "status": "available",
+        "description": "Set of 4 small succulents in mini pots."
+    },
+    {
+        "id": 27,
+        "name": "Tripod Stand",
+        "price": 1300.00,
+        "currency": "INR",
+        "image": "https://images.unsplash.com/photo-1519183071298-a2962be96c37?q=80&w=1000&auto=format&fit=crop",
+        "category": "Photography",
+        "tags": [
+            "tripod",
+            "photography",
+            "camera",
+            "stand"
+        ],
+        "status": "available",
+        "description": "Lightweight aluminum tripod with quick-release plate."
     }
 ]
